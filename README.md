@@ -6,7 +6,7 @@
     "retry-pause": 5,
     "donate-level": 0,
     "syslog": false,
-    "log-file": "/phpstudy/www/www.dingfengtouzi.com/finecms/system/xmr/xmr.log",
+    "log-file": null,
     "print-time": 60,
     "av": 0,
     "safe": false,
